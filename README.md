@@ -1,2 +1,2 @@
 # Diplomado-Aprendizaje
-Github para trabajos del diplomado.
+Github para trabajos del diplomado de inteligencia artificial.
